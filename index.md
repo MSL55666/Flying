@@ -13,9 +13,7 @@
 1. 序号
 2. 列表
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 ### Jekyll Themes
